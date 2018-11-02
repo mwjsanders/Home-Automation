@@ -1,5 +1,5 @@
 # Domoticz
-The stuf used by Domoticz
+The stuf I used in combination with Domoticz
 
 #### TV
 
